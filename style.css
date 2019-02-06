@@ -1,0 +1,48 @@
+body {
+
+  background: url('background5.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+}
+
+.bio {
+  color: white;
+  font-size: 16px;
+}
+
+.me1 {
+  height: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: white;
+  margin-top: 40px;
+}
+
+.about {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+.grey {
+    height: 3px;
+    background-color: #7C868A;
+    border: none;
+    width: 50px;
+}
